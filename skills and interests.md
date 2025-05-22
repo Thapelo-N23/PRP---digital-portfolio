@@ -7,7 +7,7 @@ I completed a skills inventory and interest assessment to evaluate my strengths 
 - Strengths: HTML, CSS, SQL, Java, Problem-solving, object oriented programme.
 - Career Interests: Full-stack development, Mobile apps, Data analysis
   
-![Skills and Interests Assessment](assets/55d685d3-a865-4c58-8828-764bd63282de.png)
+<img width="761" alt="image" src="https://github.com/user-attachments/assets/00663787-6a56-410b-b6bf-3a2aaa0ca5d7" />
 
 
 ---
