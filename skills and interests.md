@@ -1,3 +1,8 @@
+- Session Date: 14 February 2025
+- Platform: Blackboard
+- Facilitator: Ms.Prima
+- Topic: Skills and interests
+
 # Skills and Interests
 
 ##  Evidence
