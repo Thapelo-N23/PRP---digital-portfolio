@@ -1,6 +1,6 @@
 # Skills and Interests
 
-## 📄 Evidence
+##  Evidence
 
 I completed a skills inventory and interest assessment to evaluate my strengths and career direction.
 
@@ -12,7 +12,7 @@ I completed a skills inventory and interest assessment to evaluate my strengths 
 
 ---
 
-## 🧠 Reflection (Using STAR Technique)
+##  Reflection (Using STAR Technique)
 
 **S – Situation:**  
 To align my career goals with my capabilities, I attended a self-assessment of skills and interests on blackboard.
