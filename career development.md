@@ -1,5 +1,5 @@
 # Career Counselling
-## 📄 Evidence
+##  Evidence
 
 Below is the evidence of my participation in a career counselling session.
 
