@@ -1,3 +1,8 @@
+- Session Date: 21 February 2025
+- Platform: Blackboard
+- Facilitator: Ms.Prima
+- Topic: Personality assessment
+
 # Personality Assessment
 
 
