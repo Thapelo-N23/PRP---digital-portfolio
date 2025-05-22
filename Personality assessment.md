@@ -10,7 +10,7 @@ I completed a personality assesment on blackboard.
 
 ---
 
-## 🧠 Reflection (Using STAR Technique)
+##  Reflection (Using STAR Technique)
 
 **S – Situation:**  
 To understand how my personality affects my work style and collaboration, I took an online personality assessment that was presented on blackboard.
