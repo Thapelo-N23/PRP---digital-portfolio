@@ -1,8 +1,8 @@
 # My CV
-Session Date: 28 February 2025
-Platform: Blackboard
-Facilitator: Ms.Prima
-Topic: CV
+- Session Date: 28 February 2025
+- Platform: Blackboard
+- Facilitator: Ms.Prima
+- Topic: CV
 ##  Summary
 
 The CV section was showcasing the tutorial on how to create a CV that is professional and appropriate for the workplace.
