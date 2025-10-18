@@ -28,7 +28,7 @@ Through networking, I also learned about internship opportunities and profession
 I plan to grow my professional network further by attending virtual seminars, sharing project updates, and maintaining active engagement on LinkedIn.  
 My next step is to build a small professional portfolio website linked directly from my LinkedIn page.
 
-**Evidence:**
+**Evidence: Found on Blackboard submissions**
 
 <img width="665" height="413" alt="Professional Networking" src="https://github.com/user-attachments/assets/93974af1-9d13-44ff-ad0e-cd84c35d08e4" />
 
