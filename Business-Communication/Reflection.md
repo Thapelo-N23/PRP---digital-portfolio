@@ -25,5 +25,5 @@ This exercise helped me understand how good communication strengthens teamwork, 
 **Future Improvement:**  
 I plan to further improve by developing concise reporting skills and using tools like Grammarly and business templates to refine my tone and accuracy in professional communication.
 
-**Evidence :**
+**Evidence : Found on BlackBoard**
 <img width="886" height="415" alt="Business Communication" src="https://github.com/user-attachments/assets/67dc77f1-e1e7-42f7-87d9-713272f30bf2" />
